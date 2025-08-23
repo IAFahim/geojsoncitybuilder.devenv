@@ -1,11 +1,7 @@
 {
   "dependencies": {
     "com.unity.ai.navigation": {
-<<<<<<< HEAD
       "version": "1.1.4",
-=======
-      "version": "1.1.3",
->>>>>>> ee85e23106722d5449b94a247cb257fcb3b35d79
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -13,8 +9,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
     "com.unity.cinemachine": {
       "version": "2.9.5",
       "depth": 0,
@@ -24,7 +18,6 @@
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> ee85e23106722d5449b94a247cb257fcb3b35d79
     "com.unity.collab-proxy": {
       "version": "2.0.5",
       "depth": 0,
@@ -157,11 +150,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
-<<<<<<< HEAD
       "version": "1.7.5",
-=======
-      "version": "1.7.4",
->>>>>>> ee85e23106722d5449b94a247cb257fcb3b35d79
       "depth": 0,
       "source": "registry",
       "dependencies": {
